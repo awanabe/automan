@@ -1,0 +1,13 @@
+[
+  {
+    "service_name": "test1",
+    "hosts": [
+      {
+        "hostname": "test1-host1",
+        "host_ip": "",
+        "username": "",
+        "password": ""
+      }
+    ]
+  }
+]
